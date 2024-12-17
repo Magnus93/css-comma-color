@@ -4,7 +4,7 @@ This is the README for your extension "css-comma-color". After writing up a brie
 
 ## Features
 
-[Color preview RGB comma separated css variables.](images/screenshot.png)
+![Color preview RGB comma separated css variables.](images/screenshot.png)
 
 ## Requirements
 
