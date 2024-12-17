@@ -1,7 +1,8 @@
 {
   "name": "css-comma-color",
-  "displayName": "css-comma-color",
-  "description": "Preview color of comma separated css variables.",
+  "displayName": "Preview comma separated css variables",
+  "author": "Magnus93",
+  "description": "Preview color of comma separated css variables as RGB.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
@@ -10,7 +11,8 @@
     "Other"
   ],
   "activationEvents": [
-    "onLanguage:css"
+    "onLanguage:css",
+    "onLanguage:scss"
   ],
   "main": "./dist/extension.js",
   "contributes": {
@@ -41,7 +43,7 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.96.0",
+    "@types/vscode": "^1.95.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "20.x",
     "@typescript-eslint/eslint-plugin": "^8.17.0",
