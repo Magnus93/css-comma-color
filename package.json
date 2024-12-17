@@ -2,6 +2,7 @@
   "name": "css-comma-color",
   "displayName": "Preview comma separated css variables",
   "author": "Magnus93",
+  "publisher": "magnusg93",
   "description": "Preview color of comma separated css variables as RGB.",
   "version": "0.0.1",
   "engines": {
