@@ -18,6 +18,7 @@ The extension supports CSS variables in the following format:
 ```
 
 ![Color preview RGB comma separated css variables.](images/screenshot.png)
+
 It will automatically show a color preview for each defined variable.
 
 ## Installation
