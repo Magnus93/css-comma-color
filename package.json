@@ -16,12 +16,6 @@
   ],
   "main": "./dist/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "css-comma-color.helloWorld",
-        "title": "Hello World"
-      }
-    ],
     "languages": [
       {
         "id": "css",
