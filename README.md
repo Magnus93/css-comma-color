@@ -1,10 +1,10 @@
-# CSS Variable Color Preview
+# CSS Variable Color Preview and Edit
 
 This VSCode extension provides a **live color preview** for CSS variables that represent RGB values in your stylesheet. It automatically displays the preview of colors defined with comma-separated RGB values in your CSS files.
 
 ## Features
 
-- **Color Preview for CSS Variables**: It detects and shows a color preview for CSS variables defined as RGB values (e.g., `--my-color: 255, 0, 0;`).
+- **Color Preview and Edit for CSS Variables**: It detects and shows a color preview for CSS variables defined as RGB values (e.g., `--my-color: 255, 0, 0;`).
 - **Real-time Updates**: The color preview is automatically updated as you modify the CSS variable's RGB values.
 - **Intuitive & Simple**: The extension makes it easy to visualize your CSS colors directly in the editor without the need to open external tools or check the browser.
 - 
@@ -17,9 +17,10 @@ The extension supports CSS variables in the following format:
 --variable-name: r, g, b;
 ```
 
-![Color preview RGB comma separated css variables.](images/screenshot.png)
+![Color preview RGB comma separated css variables.](images/preview-color.png)
+![Color edit RGB comma separated css variables.](images/edit-color.png)
 
-It will automatically show a color preview for each defined variable.
+It will automatically show a color preview, that can be edited for each defined variable.
 
 ## Installation
 
