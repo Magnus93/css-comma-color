@@ -4,7 +4,7 @@
   "author": "Magnus93",
   "publisher": "magnusg93",
   "description": "Preview color of comma separated css variables as RGB.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
